@@ -1,0 +1,506 @@
+,group_identifier,substance,use_flag,pattern_of_use,pattern_of_use_consolidated
+0,f6dd884b1bac,Alcohol,1,continued,Continued
+1,f6dd884b1bac,Marijuana,1,continued,Continued
+2,f6dd884b1bac,Cocaine (Powder),1,episodic,Binge/Episodic
+3,f6dd884b1bac,Crack Cocaine,0,,
+4,f6dd884b1bac,Crystal Meth,0,,
+5,f6dd884b1bac,Heroin,0,,
+6,f6dd884b1bac,Suboxone/Zubsolv,0,,
+7,f6dd884b1bac,Oxycontin,0,,
+8,f6dd884b1bac,Methadone,0,,
+9,f6dd884b1bac,Other Opiates,0,,
+10,f6dd884b1bac,Benzodiazepines,1,as prescribed for sleep,Prescribed
+11,f6dd884b1bac,Hallucinogens,1,experimental,Experimental
+12,98e234ba5e17,Alcohol,1,episodic,Binge/Episodic
+13,98e234ba5e17,Marijuana,1,continued,Continued
+14,98e234ba5e17,Cocaine (Powder),1,na,NA
+15,98e234ba5e17,Crack Cocaine,1,,
+16,98e234ba5e17,Crystal Meth,0,,
+17,98e234ba5e17,Heroin,0,,
+18,98e234ba5e17,Suboxone/Zubsolv,0,,
+19,98e234ba5e17,Oxycontin,0,,
+20,98e234ba5e17,Methadone,0,,
+21,98e234ba5e17,Other Opiates,0,,
+22,98e234ba5e17,Benzodiazepines,0,,
+23,98e234ba5e17,Hallucinogens,1,episodic,Binge/Episodic
+24,98e234ba5e17,Amphetamines,0,,
+25,98e234ba5e17,Inhalants,0,,
+26,98e234ba5e17,"Ketamine (Special
+K)",0,,
+27,98e234ba5e17,Triple C's,0,,
+28,98e234ba5e17,Codeine,0,,
+29,98e234ba5e17,Ecstasy,0,,
+30,98e234ba5e17,Bath Salts,0,,
+31,98e234ba5e17,Flakka,0,,
+32,98e234ba5e17,MDMA/Molly,0,,
+33,98e234ba5e17,Steroids,0,,
+34,271e019eaca0,Alcohol,1,continued,Continued
+35,271e019eaca0,Marijuana,1,experimental,Experimental
+36,271e019eaca0,Cocaine (Powder),1,experimental,Experimental
+37,271e019eaca0,Crack Cocaine,0,,
+38,271e019eaca0,Crystal Meth,0,,
+39,271e019eaca0,Heroin,0,,
+40,271e019eaca0,Suboxone/Zubsolv,0,,
+41,271e019eaca0,Oxycontin,0,,
+42,271e019eaca0,Methadone,0,,
+43,271e019eaca0,Other Opiates,0,,
+44,271e019eaca0,Benzodiazepines,0,,
+45,271e019eaca0,Hallucinogens,1,experimental,Experimental
+46,271e019eaca0,Amphetamines,0,,
+47,271e019eaca0,Inhalants,0,,
+48,271e019eaca0,"Ketamine (Special
+K)",0,,
+49,271e019eaca0,Triple C's,0,,
+50,271e019eaca0,Codeine,0,,
+51,271e019eaca0,Ecstasy,0,,
+52,271e019eaca0,Bath Salts,0,,
+53,271e019eaca0,Flakka,0,,
+54,271e019eaca0,MDMA/Molly,0,,
+55,271e019eaca0,Steroids,0,,
+56,271e019eaca0,K2/Spice,0,,
+57,271e019eaca0,Kratom,0,,
+58,271e019eaca0,Kava,0,,
+59,271e019eaca0,Other OTC Drugs,0,,
+60,d62c61917e2a,Alcohol,1,binge,binge
+61,d62c61917e2a,Marijuana,1,episodic,Binge/Episodic
+62,d62c61917e2a,Cocaine (Powder),1,experimental,Experimental
+63,d62c61917e2a,Crack Cocaine,0,,
+64,d62c61917e2a,Crystal Meth,0,,
+65,d62c61917e2a,Heroin,0,,
+66,d62c61917e2a,Suboxone/Zubsolv,0,,
+67,d62c61917e2a,Oxycontin,0,,
+68,d62c61917e2a,Methadone,0,,
+69,d62c61917e2a,Other Opiates,0,,
+70,d62c61917e2a,Benzodiazepines,0,,
+71,d62c61917e2a,Hallucinogens,0,,
+72,d62c61917e2a,Amphetamines,0,,
+73,d62c61917e2a,Inhalants,0,,
+74,d62c61917e2a,"Ketamine (Special
+K)",0,,
+75,d62c61917e2a,Triple C's,0,,
+76,d62c61917e2a,Codeine,0,,
+77,d62c61917e2a,Ecstasy,0,,
+78,d62c61917e2a,Bath Salts,0,,
+79,d62c61917e2a,Flakka,0,,
+80,d62c61917e2a,MDMA/Molly,0,,
+81,d62c61917e2a,Steroids,0,,
+82,d62c61917e2a,K2/Spice,0,,
+83,d62c61917e2a,Kratom,0,,
+84,d62c61917e2a,Kava,0,,
+85,d62c61917e2a,Other OTC Drugs,0,,
+86,d62c61917e2a,Hard Liquor,1,Binge episodes,Binge/Episodic
+87,57c0bd5d694d,Alcohol,1,social,Experimental
+88,57c0bd5d694d,Marijuana,1,social,Experimental
+89,57c0bd5d694d,Cocaine (Powder),0,,
+90,57c0bd5d694d,Crack Cocaine,0,,
+91,57c0bd5d694d,Crystal Meth,0,,
+92,57c0bd5d694d,Heroin,0,,
+93,57c0bd5d694d,Suboxone/Zubsolv,0,,
+94,57c0bd5d694d,Oxycontin,0,,
+95,57c0bd5d694d,Methadone,0,,
+96,57c0bd5d694d,Other Opiates,0,,
+97,57c0bd5d694d,Benzodiazepines,0,,
+98,57c0bd5d694d,Hallucinogens,1,experimental,Experimental
+99,57c0bd5d694d,Amphetamines,0,,
+100,57c0bd5d694d,Inhalants,0,,
+101,57c0bd5d694d,"Ketamine (Special
+K)",0,,
+102,57c0bd5d694d,Triple C's,0,,
+103,57c0bd5d694d,Codeine,0,,
+104,57c0bd5d694d,Ecstasy,0,,
+105,57c0bd5d694d,Bath Salts,0,,
+106,57c0bd5d694d,Flakka,0,,
+107,57c0bd5d694d,MDMA/Molly,0,,
+108,57c0bd5d694d,Steroids,0,,
+109,57c0bd5d694d,K2/Spice,0,,
+110,57c0bd5d694d,Kratom,1,experimental,Experimental
+111,57c0bd5d694d,Kava,1,experimental,Experimental
+112,57c0bd5d694d,Other OTC Drugs,0,,
+113,57c0bd5d694d,Hard Liquor,0,,
+114,c701eaecb601,Alcohol,1,socially,Experimental
+115,c701eaecb601,Marijuana,1,daily,Daily
+116,c701eaecb601,Cocaine (Powder),1,daily,Daily
+117,c701eaecb601,Crack Cocaine,0,,
+118,c701eaecb601,Crystal Meth,1,daily,Daily
+119,c701eaecb601,Heroin,1,daily,Daily
+120,c701eaecb601,Suboxone/Zubsolv,0,,
+121,c701eaecb601,Oxycontin,0,,
+122,c701eaecb601,Methadone,0,,
+123,c701eaecb601,Other Opiates,0,,
+124,c701eaecb601,Benzodiazepines,1,daily,Daily
+125,c701eaecb601,Hallucinogens,0,,
+126,c701eaecb601,Amphetamines,0,,
+127,6fc48ee38a54,Alcohol,1,social,Experimental
+128,6fc48ee38a54,Marijuana,1,continued,Continued
+129,6fc48ee38a54,Cocaine (Powder),1,binge,binge
+130,6fc48ee38a54,Crack Cocaine,0,,
+131,6fc48ee38a54,Crystal Meth,1,binge,binge
+132,6fc48ee38a54,Heroin,0,,
+133,6fc48ee38a54,Suboxone/Zubsolv,0,,
+134,6fc48ee38a54,Oxycontin,0,,
+135,6fc48ee38a54,Methadone,0,,
+136,6fc48ee38a54,Other Opiates,0,,
+137,6fc48ee38a54,Benzodiazepines,0,,
+138,6fc48ee38a54,Hallucinogens,1,continual,continual
+139,6fc48ee38a54,Amphetamines,1,binge,binge
+140,6fc48ee38a54,Inhalants,1,binge,binge
+141,6fc48ee38a54,"Ketamine (Special
+K)",0,,
+142,6fc48ee38a54,Triple C's,0,,
+143,6fc48ee38a54,Codeine,0,,
+144,6fc48ee38a54,Ecstasy,0,,
+145,6fc48ee38a54,Bath Salts,0,,
+146,6fc48ee38a54,Flakka,0,,
+147,6fc48ee38a54,MDMA/Molly,1,experimental,Experimental
+148,01cb6dae438c,,1,NA,NA
+149,6ebe69c5f8a8,Alcohol,1,episodic,Binge/Episodic
+150,6ebe69c5f8a8,Marijuana,1,continued,Continued
+151,6ebe69c5f8a8,Cocaine (Powder),1,continued,Continued
+152,6ebe69c5f8a8,Crack Cocaine,1,continued,Continued
+153,6ebe69c5f8a8,Crystal Meth,1,experimental,Experimental
+154,6ebe69c5f8a8,Heroin,1,continued,Continued
+155,6ebe69c5f8a8,Suboxone/Zubsolv,1,continued,Continued
+156,6ebe69c5f8a8,Oxycontin,1,contunued,Continued
+157,6ebe69c5f8a8,Methadone,0,,
+158,6ebe69c5f8a8,Other Opiates,0,,
+159,6ebe69c5f8a8,Benzodiazepines,1,continued,Continued
+160,6ebe69c5f8a8,Hallucinogens,1,experimental,Experimental
+161,6ebe69c5f8a8,Amphetamines,0,,
+162,6ebe69c5f8a8,Inhalants,0,,
+163,6ebe69c5f8a8,"Ketamine (Special
+K)",0,,
+164,6ebe69c5f8a8,Triple C's,0,,
+165,6ebe69c5f8a8,Codeine,0,,
+166,a31e7df9c8ed,Alcohol,1,binge,binge
+167,a31e7df9c8ed,Marijuana,1,continued,Continued
+168,a31e7df9c8ed,Cocaine (Powder),1,experimental,Experimental
+169,a31e7df9c8ed,Crack Cocaine,0,,
+170,a31e7df9c8ed,Crystal Meth,0,,
+171,a31e7df9c8ed,Heroin,0,,
+172,a31e7df9c8ed,Suboxone/Zubsolv,0,,
+173,a31e7df9c8ed,Oxycontin,0,,
+174,a31e7df9c8ed,Methadone,0,,
+175,a31e7df9c8ed,Other Opiates,0,,
+176,a31e7df9c8ed,Benzodiazepines,0,,
+177,a31e7df9c8ed,Hallucinogens,1,experimental,Experimental
+178,a31e7df9c8ed,Amphetamines,0,,
+179,a31e7df9c8ed,Inhalants,0,,
+180,a31e7df9c8ed,"Ketamine (Special
+K)",0,,
+181,a31e7df9c8ed,Triple C's,0,,
+182,a31e7df9c8ed,Codeine,0,,
+183,a31e7df9c8ed,Ecstasy,0,,
+184,a31e7df9c8ed,Bath Salts,0,,
+185,a31e7df9c8ed,Flakka,0,,
+186,a31e7df9c8ed,MDMA/Molly,0,,
+187,a31e7df9c8ed,Steroids,0,,
+188,a31e7df9c8ed,K2/Spice,0,,
+189,a31e7df9c8ed,Kratom,0,,
+190,a31e7df9c8ed,Kava,0,,
+191,a31e7df9c8ed,Other OTC Drugs,0,,
+192,a31e7df9c8ed,Hard Liquor,0,,
+193,0f31f8511e2c,Alcohol,1,socially,Experimental
+194,0f31f8511e2c,Marijuana,1,daily,Daily
+195,0f31f8511e2c,Cocaine (Powder),0,,
+196,0f31f8511e2c,Crack Cocaine,0,,
+197,0f31f8511e2c,Crystal Meth,0,,
+198,0f31f8511e2c,Heroin,0,,
+199,0f31f8511e2c,Suboxone/Zubsolv,0,,
+200,0f31f8511e2c,Oxycontin,0,,
+201,0f31f8511e2c,Methadone,0,,
+202,0f31f8511e2c,Other Opiates,0,,
+203,0f31f8511e2c,Benzodiazepines,1,daily,Daily
+204,0f31f8511e2c,Hallucinogens,1,recreational,Experimental
+205,0f31f8511e2c,Amphetamines,0,,
+206,0f31f8511e2c,Inhalants,0,,
+207,0f31f8511e2c,"Ketamine (Special
+K)",0,,
+208,0f31f8511e2c,Triple C's,0,,
+209,0f31f8511e2c,Codeine,0,,
+210,0f31f8511e2c,Ecstasy,0,,
+211,0f31f8511e2c,Bath Salts,0,,
+212,0f31f8511e2c,Flakka,0,,
+213,0f31f8511e2c,MDMA/Molly,0,,
+214,0f31f8511e2c,Steroids,0,,
+215,0f31f8511e2c,K2/Spice,0,,
+216,0f31f8511e2c,Kratom,0,,
+217,0f31f8511e2c,Kava,0,,
+218,0f31f8511e2c,Other OTC Drugs,0,,
+219,0f31f8511e2c,Hard Liquor,0,,
+220,ec9ae72bd102,Alcohol,1,Binge,Binge/Episodic
+221,ec9ae72bd102,Marijuana,1,once in a while,Experimental
+222,ec9ae72bd102,Cocaine (Powder),0,,
+223,ec9ae72bd102,Crack Cocaine,0,,
+224,ec9ae72bd102,Crystal Meth,0,,
+225,ec9ae72bd102,Heroin,0,,
+226,ec9ae72bd102,Suboxone/Zubsolv,0,,
+227,ec9ae72bd102,Oxycontin,0,,
+228,ec9ae72bd102,Methadone,0,,
+229,ec9ae72bd102,Other Opiates,0,,
+230,ec9ae72bd102,Benzodiazepines,0,,
+231,ec9ae72bd102,Hallucinogens,0,,
+232,ec9ae72bd102,Amphetamines,0,,
+233,ec9ae72bd102,Inhalants,0,,
+234,ec9ae72bd102,"Ketamine (Special
+K)",0,,
+235,ec9ae72bd102,Triple C's,0,,
+236,ec9ae72bd102,Codeine,0,,
+237,ec9ae72bd102,Ecstasy,1,trail,Experimental
+238,ec9ae72bd102,Bath Salts,0,,
+239,ec9ae72bd102,Flakka,0,,
+240,ec9ae72bd102,MDMA/Molly,0,,
+241,ec9ae72bd102,Steroids,0,,
+242,ec9ae72bd102,K2/Spice,0,,
+243,ec9ae72bd102,Kratom,0,,
+244,ec9ae72bd102,Kava,0,,
+245,ec9ae72bd102,Other OTC Drugs,0,,
+246,ec9ae72bd102,Hard Liquor,0,,
+247,9005e8b2bcc5,Alcohol,1,ocationally,Occasionally
+248,9005e8b2bcc5,Marijuana,0,,
+249,9005e8b2bcc5,Cocaine (Powder),0,,
+250,9005e8b2bcc5,Crack Cocaine,0,,
+251,9005e8b2bcc5,Crystal Meth,1,daily,Daily
+252,9005e8b2bcc5,Heroin,0,,
+253,9005e8b2bcc5,Suboxone/Zubsolv,0,,
+254,9005e8b2bcc5,Oxycontin,0,,
+255,9005e8b2bcc5,Methadone,0,,
+256,9005e8b2bcc5,Other Opiates,0,,
+257,9005e8b2bcc5,Benzodiazepines,0,,
+258,9005e8b2bcc5,Hallucinogens,0,,
+259,9005e8b2bcc5,Amphetamines,0,,
+260,9005e8b2bcc5,Inhalants,0,,
+261,9005e8b2bcc5,"Ketamine (Special
+K)",0,,
+262,9005e8b2bcc5,Triple C's,0,,
+263,9005e8b2bcc5,Codeine,0,,
+264,9005e8b2bcc5,Ecstasy,0,,
+265,9005e8b2bcc5,Bath Salts,0,,
+266,9005e8b2bcc5,Flakka,0,,
+267,9005e8b2bcc5,MDMA/Molly,0,,
+268,9005e8b2bcc5,Steroids,0,,
+269,9005e8b2bcc5,K2/Spice,0,,
+270,9005e8b2bcc5,Kratom,0,,
+271,9005e8b2bcc5,Kava,0,,
+272,9005e8b2bcc5,Other OTC Drugs,0,,
+273,df9d65c8a899,Alcohol,1,binge,binge
+274,df9d65c8a899,Marijuana,0,,
+275,df9d65c8a899,Cocaine (Powder),0,,
+276,df9d65c8a899,Crack Cocaine,0,,
+277,df9d65c8a899,Crystal Meth,0,,
+278,df9d65c8a899,Heroin,0,,
+279,df9d65c8a899,Suboxone/Zubsolv,0,,
+280,df9d65c8a899,Oxycontin,0,,
+281,df9d65c8a899,Methadone,0,,
+282,df9d65c8a899,Other Opiates,0,,
+283,df9d65c8a899,Benzodiazepines,0,,
+284,df9d65c8a899,Hallucinogens,0,,
+285,df9d65c8a899,Amphetamines,0,,
+286,df9d65c8a899,Inhalants,0,,
+287,df9d65c8a899,"Ketamine (Special
+K)",0,,
+288,df9d65c8a899,Triple C's,0,,
+289,df9d65c8a899,Codeine,0,,
+290,df9d65c8a899,Ecstasy,0,,
+291,df9d65c8a899,Bath Salts,0,,
+292,df9d65c8a899,Flakka,0,,
+293,df9d65c8a899,MDMA/Molly,0,,
+294,df9d65c8a899,Steroids,0,,
+295,df9d65c8a899,K2/Spice,0,,
+296,df9d65c8a899,Kratom,0,,
+297,df9d65c8a899,Kava,0,,
+298,df9d65c8a899,Other OTC Drugs,0,,
+299,df9d65c8a899,Hard Liquor,0,,
+300,646e638b344c,Alcohol,1,Binges,Binge/Episodic
+301,646e638b344c,Marijuana,1,N/A,NA
+302,646e638b344c,Cocaine (Powder),1,Continued,Continued
+303,646e638b344c,Crack Cocaine,0,,
+304,646e638b344c,Crystal Meth,0,,
+305,646e638b344c,Heroin,0,,
+306,646e638b344c,Suboxone/Zubsolv,0,,
+307,646e638b344c,Oxycontin,0,,
+308,646e638b344c,Methadone,0,,
+309,646e638b344c,Other Opiates,0,,
+310,646e638b344c,Benzodiazepines,0,,
+311,646e638b344c,Hallucinogens,0,,
+312,646e638b344c,Amphetamines,0,,
+313,646e638b344c,Inhalants,0,,
+314,646e638b344c,"Ketamine (Special
+K)",0,,
+315,646e638b344c,Triple C's,0,,
+316,646e638b344c,Codeine,0,,
+317,646e638b344c,Ecstasy,0,,
+318,646e638b344c,Bath Salts,0,,
+319,646e638b344c,Flakka,0,,
+320,646e638b344c,MDMA/Molly,0,,
+321,646e638b344c,Steroids,0,,
+322,646e638b344c,K2/Spice,0,,
+323,646e638b344c,Kratom,0,,
+324,646e638b344c,Kava,0,,
+325,646e638b344c,Other OTC Drugs,0,,
+326,f9b9fc557c40,Alcohol,1,mental and emotional,Prescribed
+327,f9b9fc557c40,Marijuana,1,socially,Experimental
+328,f9b9fc557c40,Cocaine (Powder),1,socially,Experimental
+329,f9b9fc557c40,Crack Cocaine,0,,
+330,f9b9fc557c40,Crystal Meth,0,,
+331,f9b9fc557c40,Heroin,0,,
+332,f9b9fc557c40,Suboxone/Zubsolv,0,,
+333,f9b9fc557c40,Oxycontin,0,,
+334,f9b9fc557c40,Methadone,0,,
+335,f9b9fc557c40,Other Opiates,0,,
+336,f9b9fc557c40,Benzodiazepines,1,mentally to reduce anxiety,mentally to reduce anxiety
+337,f9b9fc557c40,Hallucinogens,0,,
+338,f9b9fc557c40,Amphetamines,0,,
+339,f9b9fc557c40,Inhalants,0,,
+340,f9b9fc557c40,"Ketamine (Special
+K)",0,,
+341,f9b9fc557c40,Triple C's,0,,
+342,f9b9fc557c40,Codeine,0,,
+343,f9b9fc557c40,Ecstasy,0,,
+344,f9b9fc557c40,Bath Salts,0,,
+345,f9b9fc557c40,Flakka,0,,
+346,f9b9fc557c40,MDMA/Molly,1,socially,Experimental
+347,f9b9fc557c40,Steroids,0,,
+348,f9b9fc557c40,K2/Spice,0,,
+349,f9b9fc557c40,Kratom,0,,
+350,f9b9fc557c40,Kava,0,,
+351,f9b9fc557c40,Other OTC Drugs,0,,
+352,f9b9fc557c40,Hard Liquor,0,,
+353,6a03b2b79264,Alcohol,1,"binge, continued","binge, continued"
+354,6a03b2b79264,Marijuana,1,continued,Continued
+355,6a03b2b79264,Cocaine (Powder),1,episodic,Binge/Episodic
+356,6a03b2b79264,Crack Cocaine,0,,
+357,6a03b2b79264,Crystal Meth,0,,
+358,6a03b2b79264,Heroin,0,,
+359,6a03b2b79264,Suboxone/Zubsolv,0,,
+360,6a03b2b79264,Oxycontin,0,,
+361,6a03b2b79264,Methadone,0,,
+362,6a03b2b79264,Other Opiates,1,for surgery,Prescribed
+363,d1984e155f2c,Alcohol,1,episodic,Binge/Episodic
+364,d1984e155f2c,Marijuana,1,episodic,Binge/Episodic
+365,d1984e155f2c,Cocaine (Powder),1,recreationally,Experimental
+366,d1984e155f2c,Crack Cocaine,0,,
+367,d1984e155f2c,Crystal Meth,0,,
+368,d1984e155f2c,Heroin,0,,
+369,d1984e155f2c,Suboxone/Zubsolv,0,,
+370,d1984e155f2c,Oxycontin,1,continued,Continued
+371,d1984e155f2c,Methadone,0,,
+372,d1984e155f2c,Other Opiates,0,,
+373,d1984e155f2c,Benzodiazepines,0,,
+374,d1984e155f2c,Hallucinogens,1,,
+375,d1984e155f2c,Amphetamines,0,,
+376,d1984e155f2c,Inhalants,1,binge,binge
+377,d1984e155f2c,"Ketamine (Special
+K)",0,,
+378,d1984e155f2c,Triple C's,0,,
+379,d1984e155f2c,Codeine,0,,
+380,d1984e155f2c,Ecstasy,0,,
+381,d1984e155f2c,Bath Salts,0,,
+382,d1984e155f2c,Flakka,0,,
+383,d1984e155f2c,MDMA/Molly,0,,
+384,d1984e155f2c,Steroids,0,,
+385,d1984e155f2c,K2/Spice,0,,
+386,d1984e155f2c,Kratom,0,,
+387,d1984e155f2c,Kava,0,,
+388,d1984e155f2c,Other OTC Drugs,0,,
+389,d1984e155f2c,Hard Liquor,0,,
+390,216266668847,Alcohol,0,,
+391,216266668847,Marijuana,0,,
+392,216266668847,Cocaine (Powder),0,,
+393,216266668847,Crack Cocaine,0,,
+394,216266668847,Crystal Meth,0,,
+395,216266668847,Heroin,0,,
+396,216266668847,Suboxone/Zubsolv,0,,
+397,216266668847,Oxycontin,0,,
+398,216266668847,Methadone,0,,
+399,216266668847,Other Opiates,0,,
+400,216266668847,Benzodiazepines,0,,
+401,216266668847,Hallucinogens,0,,
+402,216266668847,Amphetamines,0,,
+403,216266668847,Inhalants,0,,
+404,216266668847,"Ketamine (Special
+K)",0,,
+405,216266668847,Triple C's,0,,
+406,216266668847,Codeine,0,,
+407,216266668847,Ecstasy,0,,
+408,216266668847,Bath Salts,0,,
+409,216266668847,Flakka,0,,
+410,216266668847,MDMA/Molly,0,,
+411,216266668847,Steroids,0,,
+412,216266668847,K2/Spice,0,,
+413,216266668847,Kratom,0,,
+414,216266668847,Kava,0,,
+415,216266668847,Other OTC Drugs,0,,
+416,216266668847,Hard Liquor,0,,
+417,fc16b67cf2c3,Alcohol,1,continued,Continued
+418,fc16b67cf2c3,Marijuana,1,episodic,Binge/Episodic
+419,fc16b67cf2c3,Cocaine (Powder),1,episodic,Binge/Episodic
+420,fc16b67cf2c3,Crack Cocaine,1,na,NA
+421,fc16b67cf2c3,Crystal Meth,1,,
+422,fc16b67cf2c3,Heroin,0,,
+423,fc16b67cf2c3,Suboxone/Zubsolv,0,,
+424,fc16b67cf2c3,Oxycontin,0,,
+425,fc16b67cf2c3,Methadone,0,,
+426,fc16b67cf2c3,Other Opiates,0,,
+427,fc16b67cf2c3,Benzodiazepines,1,prescribed prn,Prescribed
+428,e0f34e89bcb6,Alcohol,1,Episodic or binge,Binge/Episodic
+429,e0f34e89bcb6,Marijuana,1,continued,Continued
+430,e0f34e89bcb6,Cocaine (Powder),1,Episodic/binge,Binge/Episodic
+431,e0f34e89bcb6,Crack Cocaine,0,,
+432,e0f34e89bcb6,Crystal Meth,0,,
+433,e0f34e89bcb6,Heroin,0,,
+434,e0f34e89bcb6,Suboxone/Zubsolv,0,,
+435,e0f34e89bcb6,Oxycontin,0,,
+436,e0f34e89bcb6,Methadone,0,,
+437,e0f34e89bcb6,Other Opiates,0,,
+438,e0f34e89bcb6,Benzodiazepines,0,,
+439,e0f34e89bcb6,Hallucinogens,0,,
+440,e0f34e89bcb6,Amphetamines,0,,
+441,e0f34e89bcb6,Inhalants,0,,
+442,e0f34e89bcb6,"Ketamine (Special
+K)",1,an episode,an episode
+443,e0f34e89bcb6,Triple C's,0,,
+444,e0f34e89bcb6,Codeine,0,,
+445,e0f34e89bcb6,Ecstasy,0,,
+446,e0f34e89bcb6,Bath Salts,0,,
+447,e0f34e89bcb6,Flakka,0,,
+448,e0f34e89bcb6,MDMA/Molly,0,,
+449,e0f34e89bcb6,Steroids,0,,
+450,e0f34e89bcb6,K2/Spice,0,,
+451,e0f34e89bcb6,Kratom,0,,
+452,e0f34e89bcb6,Kava,0,,
+453,e0f34e89bcb6,Other OTC Drugs,0,,
+454,e0f34e89bcb6,Hard Liquor,0,,
+455,b0b025173dad,Alcohol,1,binge,binge
+456,b0b025173dad,Marijuana,1,continued,Continued
+457,b0b025173dad,Cocaine (Powder),1,episodic,Binge/Episodic
+458,b0b025173dad,Crack Cocaine,0,,
+459,b0b025173dad,Crystal Meth,1,binge,binge
+460,b0b025173dad,Heroin,1,continual,continual
+461,e14d25933774,Alcohol,1,binge/episodic,Binge/Episodic
+462,e14d25933774,Marijuana,1,episodic,Binge/Episodic
+463,e14d25933774,Cocaine (Powder),1,continued,Continued
+464,e14d25933774,Crack Cocaine,0,,
+465,e14d25933774,Crystal Meth,0,,
+466,e14d25933774,Heroin,0,,
+467,e14d25933774,Suboxone/Zubsolv,0,,
+468,e14d25933774,Oxycontin,0,,
+469,e14d25933774,Methadone,0,,
+470,e14d25933774,Other Opiates,0,,
+471,e14d25933774,Benzodiazepines,0,,
+472,e14d25933774,Hallucinogens,0,,
+473,e14d25933774,Amphetamines,0,,
+474,e14d25933774,Inhalants,0,,
+475,e14d25933774,"Ketamine (Special
+K)",0,,
+476,e14d25933774,Triple C's,0,,
+477,e14d25933774,Codeine,0,,
+478,e14d25933774,Ecstasy,0,,
+479,e14d25933774,Bath Salts,0,,
+480,e14d25933774,Flakka,0,,
+481,e14d25933774,MDMA/Molly,0,,
+482,e14d25933774,Steroids,0,,
+483,e14d25933774,K2/Spice,0,,
+484,e14d25933774,Kratom,0,,
+485,e14d25933774,Kava,0,,
+486,e14d25933774,Other OTC Drugs,0,,
+487,e14d25933774,Hard Liquor,0,,
